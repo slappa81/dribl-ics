@@ -66,7 +66,7 @@ After the first successful run, your subscribe URL is:
 https://massimoi79.github.io/dribl-ics/team.ics
 ```
 
-There's also a friendly landing page at <https://massimoi79.github.io/dribl-ics/> with one-tap webcal links you can text to family.
+There's also a friendly landing page at <https://slappa81.github.io/dribl-ics/> with one-tap webcal links you can text to family.
 
 ## Subscribing on your phone
 
