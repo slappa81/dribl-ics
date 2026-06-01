@@ -1,13 +1,14 @@
 {
   "$schema": "./config.schema.json",
   "subdomain": "fv",
-  "club": "A4KLxY81Kq",
+  "club": "bgdMXaXpKE",
   "season": "nPmrj2rmow",
   "competition": "nPmrBVjAmo",
-  "league": "JmXJ64ozKn",
+  "league": "lNba41Gomx",
   "teamFilter": "",
   "timezone": "Australia/Melbourne",
   "calendarName": "Team Fixtures",
   "matchDurationMinutes": 90,
   "outputPath": "docs/team.ics"
 }
+
