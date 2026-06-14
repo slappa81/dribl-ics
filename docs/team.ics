@@ -4,29 +4,14 @@ PRODID:-//dribl-ics//dribl-ics//EN
 METHOD:PUBLISH
 NAME:Team Fixtures
 X-WR-CALNAME:Team Fixtures
-X-WR-CALDESC:Auto-generated from fv.dribl.com. Last refreshed 2026-06-13T1
- 7:35:47.696Z.
+X-WR-CALDESC:Auto-generated from fv.dribl.com. Last refreshed 2026-06-14T1
+ 7:34:42.239Z.
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:Rdk2L8V62K@dribl-ics
-SEQUENCE:0
-DTSTAMP:20260613T173547Z
-DTSTART:20260614T020000Z
-DTEND:20260614T033000Z
-SUMMARY:Williamstown SC U12 Juniors - C Mixed Under 12 Boys (Ben) vs Yarra
- ville Glory FC U12 Juniors - C Mixed (Round 7)
-LOCATION:JT Gray Reserve\, Pitch 3A - WSC
-DESCRIPTION:Competition: Junior Mixed Sunday (U12 - U16) — Mixed Sunday 
- West 12C Blue\nRound: Round 7\nHome: Williamstown SC U12 Juniors - C Mixed
-  Under 12 Boys (Ben)\nAway: Yarraville Glory FC U12 Juniors - C Mixed\nVen
- ue: JT Gray Reserve (Pitch 3A - WSC)\nStatus: pending
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:nmYnB0lMrN@dribl-ics
 SEQUENCE:0
-DTSTAMP:20260613T173547Z
+DTSTAMP:20260614T173442Z
 DTSTART:20260621T000000Z
 DTEND:20260621T013000Z
 SUMMARY:Yarraville Glory FC U12 Juniors - C Mixed vs Truganina Lions FC U1
@@ -41,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ZNQOElMpWd@dribl-ics
 SEQUENCE:0
-DTSTAMP:20260613T173547Z
+DTSTAMP:20260614T173442Z
 DTSTART:20260628T001500Z
 DTEND:20260628T014500Z
 SUMMARY:Melbourne City FC U12 Juniors - C Mixed U12 Boys Blue Dan vs Yarra
