@@ -4,14 +4,14 @@ PRODID:-//dribl-ics//dribl-ics//EN
 METHOD:PUBLISH
 NAME:Team Fixtures
 X-WR-CALNAME:Team Fixtures
-X-WR-CALDESC:Auto-generated from fv.dribl.com. Last refreshed 2026-06-16T1
- 8:35:21.425Z.
+X-WR-CALDESC:Auto-generated from fv.dribl.com. Last refreshed 2026-06-17T1
+ 7:57:19.350Z.
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:nmYnB0lMrN@dribl-ics
 SEQUENCE:0
-DTSTAMP:20260616T183521Z
+DTSTAMP:20260617T175719Z
 DTSTART:20260621T000000Z
 DTEND:20260621T013000Z
 SUMMARY:Yarraville Glory FC U12 Juniors - C Mixed vs Truganina Lions FC U1
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ZNQOElMpWd@dribl-ics
 SEQUENCE:0
-DTSTAMP:20260616T183521Z
+DTSTAMP:20260617T175719Z
 DTSTART:20260628T001500Z
 DTEND:20260628T014500Z
 SUMMARY:Melbourne City FC U12 Juniors - C Mixed U12 Boys Blue Dan vs Yarra
@@ -36,6 +36,143 @@ DESCRIPTION:Competition: Junior Mixed Sunday (U12 - U16) — Mixed Sunday
  West 12C Blue\nRound: Round 9\nHome: Melbourne City FC U12 Juniors - C Mix
  ed U12 Boys Blue Dan\nAway: Yarraville Glory FC U12 Juniors - C Mixed\nVen
  ue: Edwards Reserve (Main Pitch A)\nStatus: pending
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1K3pJMV3Yd@dribl-ics
+SEQUENCE:0
+DTSTAMP:20260617T175719Z
+DTSTART:20260712T000000Z
+DTEND:20260712T013000Z
+SUMMARY:Yarraville Glory FC U12 Juniors - C Mixed vs Laverton FC U12 Junio
+ rs - C Mixed Laverton FC U12 (Round 10)
+LOCATION:McIvor Reserve \, Pitch 1 - Half (C+D)
+DESCRIPTION:Competition: Junior Mixed Sunday (U12 - U16) — Mixed Sunday 
+ West 12C Blue\nRound: Round 10\nHome: Yarraville Glory FC U12 Juniors - C 
+ Mixed\nAway: Laverton FC U12 Juniors - C Mixed Laverton FC U12\nVenue: McI
+ vor Reserve  (Pitch 1 - Half (C+D))\nStatus: pending
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ZKRy8OGGGN@dribl-ics
+SEQUENCE:0
+DTSTAMP:20260617T175719Z
+DTSTART:20260718T230000Z
+DTEND:20260719T003000Z
+SUMMARY:Hoppers Crossing SC U12 Juniors - C Mixed u12 Shane D vs Yarravill
+ e Glory FC U12 Juniors - C Mixed (Round 11)
+LOCATION:Grange Reserve - Hoppers Crossing\, Pitch 3 - Synthetic - Half Pi
+ tch B
+DESCRIPTION:Competition: Junior Mixed Sunday (U12 - U16) — Mixed Sunday 
+ West 12C Blue\nRound: Round 11\nHome: Hoppers Crossing SC U12 Juniors - C 
+ Mixed u12 Shane D\nAway: Yarraville Glory FC U12 Juniors - C Mixed\nVenue:
+  Grange Reserve - Hoppers Crossing (Pitch 3 - Synthetic - Half Pitch B)\nS
+ tatus: pending
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ZKRy8OGzrN@dribl-ics
+SEQUENCE:0
+DTSTAMP:20260617T175719Z
+DTSTART:20260726T000000Z
+DTEND:20260726T013000Z
+SUMMARY:Yarraville Glory FC U12 Juniors - C Mixed vs Satellite City United
+  SC U12 Juniors - C Mixed Soloman (Round 12)
+LOCATION:McIvor Reserve \, Pitch 2 - Half (A+B)
+DESCRIPTION:Competition: Junior Mixed Sunday (U12 - U16) — Mixed Sunday 
+ West 12C Blue\nRound: Round 12\nHome: Yarraville Glory FC U12 Juniors - C 
+ Mixed\nAway: Satellite City United SC U12 Juniors - C Mixed Soloman\nVenue
+ : McIvor Reserve  (Pitch 2 - Half (A+B))\nStatus: pending
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:BdDbzyaV4N@dribl-ics
+SEQUENCE:0
+DTSTAMP:20260617T175719Z
+DTSTART:20260802T010000Z
+DTEND:20260802T023000Z
+SUMMARY:Tarneit United SC U12 Juniors - C Mixed vs Yarraville Glory FC U12
+  Juniors - C Mixed (Round 13)
+LOCATION:Hummingbird Boulevard Reserve\, 2B (Half)
+DESCRIPTION:Competition: Junior Mixed Sunday (U12 - U16) — Mixed Sunday 
+ West 12C Blue\nRound: Round 13\nHome: Tarneit United SC U12 Juniors - C Mi
+ xed\nAway: Yarraville Glory FC U12 Juniors - C Mixed\nVenue: Hummingbird B
+ oulevard Reserve (2B (Half))\nStatus: pending
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8Nq56DJDQN@dribl-ics
+SEQUENCE:0
+DTSTAMP:20260617T175719Z
+DTSTART:20260809T000000Z
+DTEND:20260809T013000Z
+SUMMARY:Yarraville Glory FC U12 Juniors - C Mixed vs Williamstown SC U12 J
+ uniors - C Mixed Under 12 Boys (Marc/Lyall) (Round 14)
+LOCATION:McIvor Reserve \, Pitch 2 - Half (A+B)
+DESCRIPTION:Competition: Junior Mixed Sunday (U12 - U16) — Mixed Sunday 
+ West 12C Blue\nRound: Round 14\nHome: Yarraville Glory FC U12 Juniors - C 
+ Mixed\nAway: Williamstown SC U12 Juniors - C Mixed Under 12 Boys (Marc/Lya
+ ll)\nVenue: McIvor Reserve  (Pitch 2 - Half (A+B))\nStatus: pending
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:am14JMYE6d@dribl-ics
+SEQUENCE:0
+DTSTAMP:20260617T175719Z
+DTSTART:20260816T001500Z
+DTEND:20260816T014500Z
+SUMMARY:Melbourne City FC U12 Juniors - C Mixed U12 Boys White Cang vs Yar
+ raville Glory FC U12 Juniors - C Mixed (Round 15)
+LOCATION:Edwards Reserve\, Main Pitch B
+DESCRIPTION:Competition: Junior Mixed Sunday (U12 - U16) — Mixed Sunday 
+ West 12C Blue\nRound: Round 15\nHome: Melbourne City FC U12 Juniors - C Mi
+ xed U12 Boys White Cang\nAway: Yarraville Glory FC U12 Juniors - C Mixed\n
+ Venue: Edwards Reserve (Main Pitch B)\nStatus: pending
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ZKRy8OG4jN@dribl-ics
+SEQUENCE:0
+DTSTAMP:20260617T175719Z
+DTSTART:20260823T000000Z
+DTEND:20260823T013000Z
+SUMMARY:Yarraville Glory FC U12 Juniors - C Mixed vs West Point SC U12 Jun
+ iors - C Mixed U12C Phil (Round 16)
+LOCATION:McIvor Reserve \, Pitch 1 - Half (A+B)
+DESCRIPTION:Competition: Junior Mixed Sunday (U12 - U16) — Mixed Sunday 
+ West 12C Blue\nRound: Round 16\nHome: Yarraville Glory FC U12 Juniors - C 
+ Mixed\nAway: West Point SC U12 Juniors - C Mixed U12C Phil\nVenue: McIvor 
+ Reserve  (Pitch 1 - Half (A+B))\nStatus: pending
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Omepo849yd@dribl-ics
+SEQUENCE:0
+DTSTAMP:20260617T175719Z
+DTSTART:20260830T000500Z
+DTEND:20260830T013500Z
+SUMMARY:Point Cook SC U12 Juniors - C Mixed U12 Strike Eagles vs Yarravill
+ e Glory FC U12 Juniors - C Mixed (Round 17)
+LOCATION:Saltwater Reserve\, Pitch 2 - SSF1 (U12)
+DESCRIPTION:Competition: Junior Mixed Sunday (U12 - U16) — Mixed Sunday 
+ West 12C Blue\nRound: Round 17\nHome: Point Cook SC U12 Juniors - C Mixed 
+ U12 Strike Eagles\nAway: Yarraville Glory FC U12 Juniors - C Mixed\nVenue:
+  Saltwater Reserve (Pitch 2 - SSF1 (U12))\nStatus: pending
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:JmXWPRkGzd@dribl-ics
+SEQUENCE:0
+DTSTAMP:20260617T175719Z
+DTSTART:20260906T000000Z
+DTEND:20260906T013000Z
+SUMMARY:Yarraville Glory FC U12 Juniors - C Mixed vs Williamstown SC U12 J
+ uniors - C Mixed Under 12 Boys (Ben) (Round 18)
+LOCATION:McIvor Reserve \, Pitch 1 - Half (A+B)
+DESCRIPTION:Competition: Junior Mixed Sunday (U12 - U16) — Mixed Sunday 
+ West 12C Blue\nRound: Round 18\nHome: Yarraville Glory FC U12 Juniors - C 
+ Mixed\nAway: Williamstown SC U12 Juniors - C Mixed Under 12 Boys (Ben)\nVe
+ nue: McIvor Reserve  (Pitch 1 - Half (A+B))\nStatus: pending
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
