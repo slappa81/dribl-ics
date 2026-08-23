@@ -4,29 +4,14 @@ PRODID:-//dribl-ics//dribl-ics//EN
 METHOD:PUBLISH
 NAME:Team Fixtures
 X-WR-CALNAME:Team Fixtures
-X-WR-CALDESC:Auto-generated from fv.dribl.com. Last refreshed 2026-08-22T1
- 7:07:32.771Z.
+X-WR-CALDESC:Auto-generated from fv.dribl.com. Last refreshed 2026-08-23T1
+ 7:08:23.136Z.
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:ZKRy8OG4jN@dribl-ics
-SEQUENCE:0
-DTSTAMP:20260822T170732Z
-DTSTART:20260823T000000Z
-DTEND:20260823T013000Z
-SUMMARY:Yarraville Glory FC U12 Juniors - C Mixed vs West Point SC U12 Jun
- iors - C Mixed U12C Phil (Round 16)
-LOCATION:McIvor Reserve \, Pitch 2 - Half (C+D)
-DESCRIPTION:Competition: Junior Mixed Sunday (U12 - U16) — Mixed Sunday 
- West 12C Blue\nRound: Round 16\nHome: Yarraville Glory FC U12 Juniors - C 
- Mixed\nAway: West Point SC U12 Juniors - C Mixed U12C Phil\nVenue: McIvor 
- Reserve  (Pitch 2 - Half (C+D))\nStatus: pending
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:Omepo849yd@dribl-ics
 SEQUENCE:0
-DTSTAMP:20260822T170732Z
+DTSTAMP:20260823T170823Z
 DTSTART:20260830T000500Z
 DTEND:20260830T013500Z
 SUMMARY:Point Cook SC U12 Juniors - C Mixed U12 Strike Eagles vs Yarravill
@@ -41,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:JmXWPRkGzd@dribl-ics
 SEQUENCE:0
-DTSTAMP:20260822T170732Z
+DTSTAMP:20260823T170823Z
 DTSTART:20260906T011500Z
 DTEND:20260906T024500Z
 SUMMARY:Yarraville Glory FC U12 Juniors - C Mixed vs Williamstown SC U12 J
