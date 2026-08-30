@@ -4,29 +4,14 @@ PRODID:-//dribl-ics//dribl-ics//EN
 METHOD:PUBLISH
 NAME:Team Fixtures
 X-WR-CALNAME:Team Fixtures
-X-WR-CALDESC:Auto-generated from fv.dribl.com. Last refreshed 2026-08-29T1
- 7:12:28.287Z.
+X-WR-CALDESC:Auto-generated from fv.dribl.com. Last refreshed 2026-08-30T1
+ 7:12:05.062Z.
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:Omepo849yd@dribl-ics
-SEQUENCE:0
-DTSTAMP:20260829T171228Z
-DTSTART:20260830T000500Z
-DTEND:20260830T013500Z
-SUMMARY:Point Cook SC U12 Juniors - C Mixed U12 Strike Eagles vs Yarravill
- e Glory FC U12 Juniors - C Mixed (Round 17)
-LOCATION:Saltwater Reserve\, Pitch 2 - SSF1 (U12)
-DESCRIPTION:Competition: Junior Mixed Sunday (U12 - U16) — Mixed Sunday 
- West 12C Blue\nRound: Round 17\nHome: Point Cook SC U12 Juniors - C Mixed 
- U12 Strike Eagles\nAway: Yarraville Glory FC U12 Juniors - C Mixed\nVenue:
-  Saltwater Reserve (Pitch 2 - SSF1 (U12))\nStatus: pending
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:JmXWPRkGzd@dribl-ics
 SEQUENCE:0
-DTSTAMP:20260829T171228Z
+DTSTAMP:20260830T171205Z
 DTSTART:20260906T011500Z
 DTEND:20260906T024500Z
 SUMMARY:Yarraville Glory FC U12 Juniors - C Mixed vs Williamstown SC U12 J
